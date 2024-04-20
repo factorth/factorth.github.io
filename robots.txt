@@ -1,4 +1,4 @@
 User-Agent: *
 Disallow: 
 
-Sitemap: https://factorth.github.io/sitemap.xml
+Sitemap: https://factorth.github.io/sitemap.xsd
